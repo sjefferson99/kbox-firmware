@@ -55,3 +55,4 @@ venv
 
 # local config file for personal settings
 extras/config/kbox-config.json
+.pio/build/project.checksum
