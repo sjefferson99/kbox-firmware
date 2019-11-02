@@ -11,6 +11,8 @@ tags
 lcov-output
 cov.info
 node_modules
+.pio
+.vscode
 
 # OSX
 # =========================
@@ -55,4 +57,3 @@ venv
 
 # local config file for personal settings
 extras/config/kbox-config.json
-.pio/build/project.checksum
